@@ -1,4 +1,4 @@
 
 # Bike Safe!
 
-Live at [Stoked-theorem.github.io](Stoked-theorem.github.io)
+Live on [our website!](https://stoked-theorem.github.io)
